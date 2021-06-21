@@ -1,2 +1,5 @@
+from example.myapp import do_thing
+
+
 def test_hello():
-    pass
+    do_thing()
