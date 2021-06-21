@@ -68,4 +68,3 @@ To keep things as ordered and "un-magicically" as possible, deps are broken into
 - requirements.txt: packages needed to run production code
 
 all txt files are generated from running `pip-compile <file_name>`
-
